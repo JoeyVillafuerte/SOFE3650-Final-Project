@@ -1,6 +1,7 @@
 # Iteration 2: The 7 step ADD process
 This section presents the results of the activities that are performed in each of the steps of the ADD in the second iteration of the video game website. Here, the goal is to identify each of the support structures needed for the primary functionality.
-The pdf 
+
+The [full pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/temp%20iteration%202.pdf) of iteration 2 will also be included.
 
 ### Step 2: Establish Iteration Goal by Selecting Drivers
 For this iteration we will be considering the primary use cases as they best describe the primary functionality of the website. The use cases in mind are:
