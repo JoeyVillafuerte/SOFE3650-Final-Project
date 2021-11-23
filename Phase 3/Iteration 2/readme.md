@@ -16,7 +16,7 @@ For this iteration we will be considering the primary use cases as they best des
 The elements that will be refined in this iteration are the modules located in the different layers defined by the reference architectures from the previous iteration, such as the Rich Client Application reference architecture.
 
 ### Step 4: Choose One or More Design Concepts that Satisfy the Selected Drivers
-![dd4](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Design%20Decisions/Iteration%202%20Step%204.jpg)
+![dd4](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Design%20Decisions/Iteration%202%20Step%204%20.jpg)
 
 ### Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
 ![dd5](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Design%20Decisions/Iteration%202%20Step%205.jpg)
