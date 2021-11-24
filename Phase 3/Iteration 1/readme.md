@@ -30,7 +30,17 @@ For the most part, the RIA reference architecture suits our use well. The only d
 
 
 ### Step 6: Sketch Views and Record Design Decisions
-update later with the 2 pictures
+The diagram in Figure 2 shows the sketch of the module view of the two reference architectures that were selected for the client and server applications. These have now been adapted according to the design decisions we have made.
+
+![fig2](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Driver%20Table%20%26%20Images/Iteration%201%20Figure%202%20-%20Client%20and%20Server%20Side%20Architecture.jpg)
+
+Each of the elements that have been selected is explained with a short description of its responsibilities. The following table summarizes the information that is captured in Figure 2:
+![fig2chart1](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Driver%20Table%20%26%20Images/Iteration%201%20Figure%202%20Chart%201.jpg)
+![fig2chart2](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Driver%20Table%20%26%20Images/Iteration%201%20Figure%202%20Chart%202.jpg)
+
+The deployment diagram in Figure 3 sketches an allocation view that illustrates where the components associated with the modules in the previous diagram will be deployed. The responsibilities of the elements are summarized here:
+![fig3](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Driver%20Table%20%26%20Images/Iteration%201%20Figure%203%20-%20Deployment%20Diagram.jpg)
+![fig3chart](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Driver%20Table%20%26%20Images/Iteration%201%20Figure%203%20Chart.jpg)
 
 ### Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 The following table summarizes the design progress using the Kanban board technique:
