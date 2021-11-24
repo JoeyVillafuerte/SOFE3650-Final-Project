@@ -40,7 +40,7 @@ Each iteration and readme goes into detail about the design decisions made, alon
   * [Iteration 2](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%203/Iteration%202)
     *  [Design Decisions](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%203/Iteration%202/Design%20Decisions)
     *  [Use Cases](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%203/Iteration%202/Use%20Cases)
-    *  [Phase 3 Iteration 2 pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/temp%20iteration%202.pdf)
+    *  [Phase 3 Iteration 2 pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Iteration%202.pdf)
   * [Iteration 3](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%203/Iteration%203)
     *  [Quality Attributes & Design Decisions](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%203/Iteration%203/Quality%20Attributes%20%26%20Design%20Decisions)
     *  [Phase 3 Iteration 3 pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%203/Iteration%203.pdf)
