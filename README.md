@@ -13,8 +13,9 @@ Rubbia Pasha - 100702075
 ## Table of Contents
 
 
-### 1. [Phase 1 - Proposal](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Proposal)
-* i) [Proposal pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Proposal/SOFE3650%20Group%2020%20Project%20Proposal.pdf)
+### 1. [Phase 1 - Proposal](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%201/Proposal)
+* i) [Proposal pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%201/Proposal/SOFE3650%20Group%2020%20Project%20Proposal.pdf)
+* ii) [Post Feedback Updated Proposal pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%201/Proposal/Post%20Feedback%20Updated%20Proposal.pdf)
 
 ### 2. [Phase 2 - Progress update](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%202)
 Phase 2 consists of the progress update, planning and creating the overall ideas of the website. This phase is the foundation, giving us building blocks to work with
