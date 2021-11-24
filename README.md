@@ -26,7 +26,10 @@ Phase 2 consists of the progress update, planning and creating the overall ideas
   * [Constraints](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%202/Images/Constraints.JPG)
 
 ### 3. [Phase 3 - Final product](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%203) 
-something something iterations have been designed to be viewed through the readme in each iteration, as they all go into much more detail and will show the design philosophy
+Each iteration folder in Phase 3 have been designed to be viewed through the readme; the readme has been formatted like the final pdf in each iteration to help with readability and detail, along with providing the pdf as well formarking. 
+
+Each iteration and readme goes into detail about the design decisions made, along with providing any necessary information such as diagrams, charts, and other deliverables.
+
 * i) [Phase 3 pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/SOFE3650%20Group%2020%20Project%20PHASE%203.pdf)
 * ii) Iterations
   * [Iteration 1](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%203/Iteration%201)
