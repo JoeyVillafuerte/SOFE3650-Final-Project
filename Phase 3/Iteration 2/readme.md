@@ -25,6 +25,9 @@ The elements that will be refined in this iteration are the modules located in t
 Step 6 includes the sketched views, domain objects, and design decisions made during the process. They have been put into detail in the [Use Cases Folder](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%203/Iteration%202/Use%20Cases).
 
 ### Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
-link the chart later on
+The following table summarizes the status of the different drivers and the decisions that were made during the iteration:
+
+![](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Design%20Decisions/Iteration%202%20Step%207.1.jpg)
+![](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Design%20Decisions/Iteration%202%20Step%207.2.jpg)
 
 
