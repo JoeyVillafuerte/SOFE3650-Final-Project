@@ -1,6 +1,6 @@
-# Deliverable 3: Finalizations
+# Phase 3: The completion of the ADD process
 
-In phase 3, we complete the ADD process and have chosen the most important aspects of the system that will be worked on. At this point, everything has been talked about and discussed in detail and is ready to begin implementing.
+In phase 3, we completed the ADD process and have chosen the most important aspects of the system that will be worked on. At this point, everything has been talked about and discussed in detail and is ready to begin implementing.
 
 
 * i) [Phase 3 pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/SOFE3650%20Group%2020%20Project%20PHASE%203.pdf)
