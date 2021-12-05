@@ -1,5 +1,5 @@
 # Iteration 2: Identifying Structures to Support Primary Functionality
-This section presents the results of the activities that are performed in each of the steps of the ADD in the second iteration of the video game website. Here, the goal is to identify each of the support structures needed for the primary functionality.
+This section presents the results of the activities that are performed for the second iteration of the ADD process. Here, the goal is to identify each of the support structures needed for the primary functionality of the video game website.
 
 The [full pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Iteration%202%20Final.pdf) of iteration 2 will also be included.
 
