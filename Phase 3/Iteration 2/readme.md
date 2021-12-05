@@ -1,7 +1,7 @@
-# Iteration 2: The 7 step ADD process
+# Iteration 2: Identifying Structures to Support Primary Functionality
 This section presents the results of the activities that are performed in each of the steps of the ADD in the second iteration of the video game website. Here, the goal is to identify each of the support structures needed for the primary functionality.
 
-The [full pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Iteration%202.pdf) of iteration 2 will also be included.
+The [full pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Iteration%202%20Final.pdf) of iteration 2 will also be included.
 
 ### Step 2: Establish Iteration Goal by Selecting Drivers
 For this iteration we will be considering the primary use cases as they best describe the primary functionality of the website. The use cases in mind are:
@@ -13,10 +13,10 @@ For this iteration we will be considering the primary use cases as they best des
 
 
 ### Step 3: Choose One or More Elements of the System to Refine
-The elements that will be refined in this iteration are the modules located in the different layers defined by the reference architectures from the previous iteration, such as the Rich Client Application reference architecture.
+The elements that will be refined in this iteration are the modules located in the different layers defined by the reference architectures from the previous iteration, such as the **Rich Client Application** reference architecture.
 
 ### Step 4: Choose One or More Design Concepts that Satisfy the Selected Drivers
-![dd4](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Design%20Decisions/Iteration%202%20Step%204%20.jpg)
+![dd4](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Design%20Decisions/Iteration%202%20Step%204.jpg)
 
 ### Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
 ![dd5](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Design%20Decisions/Iteration%202%20Step%205.jpg)
