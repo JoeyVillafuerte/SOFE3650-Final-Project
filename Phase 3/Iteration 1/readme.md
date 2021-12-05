@@ -1,12 +1,11 @@
 # Iteration 1: Establishing Overall Website Architecture
-This section presents the results of the activities that are performed in each of the steps of ADD in the first iteration of the design process. 
-In this first iteration, we are thinking very high-level, simply choosing what would be the best general reference architecture we would want to choose based on the drivers. Here we considered several, but ultimately Rich Internet Application was proven to be the most useful reference architecture for this application. 
+The first iteration outlines the initial results of the design process for the ADD steps. In the first iteration, we are thinking very high-level. We are simply choosing what would be the best general reference architecture based on the drivers. We considered several, but ultimately decided that the **Rich Internet Application** was proven to be the most useful reference architecture for this application. 
 
 
-The [full pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Iteration%201.pdf) of iteration 1 will also be included.
+The [full pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Iteration%201%20Final.pdf) of iteration 1 will also be included.
 
 ### Step 2: Establish Iteration Goal by Selecting Drivers
-This is the first iteration in the design of a video game website system, so the iteration goal is to achieve the architectural concern of establishing an overall system structure. The following influence that structure:
+Driver selection was based on what influenced the structure of the system. This helps establish the iteration goal of achieving the architectural concern of establishing an overall system structure. The drivers are listed below:
 ![](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Driver%20Table%20%26%20Images/driver%20table.jpg)
 ![](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Driver%20Table%20%26%20Images/context%20diagram.jpg)
 
@@ -16,8 +15,8 @@ This is a greenfield development effort, so in this case the element to refine i
 
 ### Step 4: Choose One or More Design Concepts that Satisfy the Selected Drivers
 The following table summarizes the selection of design decisions:
-![](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Design%20Decisions/design%20decision%201.jpg)
-![](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Design%20Decisions/design%20decision%202.jpg)
+![](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Design%20Decisions/Iteration%201%20Step%204.1.jpg)
+![](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Design%20Decisions/Iteration%201%20Step%204.2.jpg)
 
 The following table is the framework decision:
 
@@ -40,7 +39,7 @@ Each of the elements that have been selected is explained with a short descripti
 
 The deployment diagram in Figure 3 sketches an allocation view that illustrates where the components associated with the modules in the previous diagram will be deployed. The responsibilities of the elements are summarized here:
 ![fig3](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Driver%20Table%20%26%20Images/Iteration%201%20Figure%203%20-%20Deployment%20Diagram.jpg)
-![fig3chart](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Driver%20Table%20%26%20Images/Iteration%201%20Figure%203%20Chart.jpg)
+![fig3table](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%201/Driver%20Table%20%26%20Images/Iteration%201%20Figure%203%20Table.jpg)
 
 ### Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 The following table summarizes the design progress using the Kanban board technique:
