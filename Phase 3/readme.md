@@ -3,7 +3,7 @@
 In phase 3, we completed the ADD process and have chosen the most important aspects of the system that will be worked on. At this point, everything has been talked about and discussed in detail and is ready to begin implementing.
 
 
-* i) [Phase 3 pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/SOFE3650%20Group%2020%20Project%20PHASE%203.pdf) - update to new one
+* i) [Phase 3 pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/SOFE3650%20Group%2020%20Project%20Phase%203%20Final.pdf)
 * ii) Iterations
   * [Iteration 1](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%203/Iteration%201)
     *  [Deployment Models & Chart](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%203/Iteration%201/Deployment%20Models%20%26%20Chart)
