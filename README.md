@@ -30,7 +30,7 @@ Each iteration folder in Phase 3 have been designed to be viewed through the rea
 
 Each iteration and readme goes into detail about the design decisions made, along with providing any necessary information such as diagrams, charts, and other deliverables.
 
-* i) [Phase 3 pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/SOFE3650%20Group%2020%20Project%20PHASE%203.pdf)
+* i) [Phase 3 pdf](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/SOFE3650%20Group%2020%20Project%20Phase%203%20Final.pdf)
 * ii) Iterations
   * [Iteration 1](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%203/Iteration%201)
     *  [Deployment Models & Chart](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/tree/main/Phase%203/Iteration%201/Deployment%20Models%20%26%20Chart)
