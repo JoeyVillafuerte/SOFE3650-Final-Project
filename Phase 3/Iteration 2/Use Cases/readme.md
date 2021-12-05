@@ -1,4 +1,4 @@
-# Use Cases selected as drivers for Iteration 2 --> update descriptions later
+# Use Cases selected as drivers for Iteration 2
 
 ### Use Case 1
 #### ![UC-1](https://github.com/JoeyVillafuerte/SOFE3650-Final-Project/blob/main/Phase%203/Iteration%202/Use%20Cases/Iteration%202%20UC-1.jpg):
